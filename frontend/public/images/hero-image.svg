@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f0f9ff" rx="20" ry="20"/>
+  
+  <!-- Hospital Building -->
+  <rect x="150" y="200" width="500" height="300" fill="#ffffff" stroke="#3b82f6" stroke-width="4" rx="10" ry="10"/>
+  
+  <!-- Hospital Roof -->
+  <polygon points="150,200 400,100 650,200" fill="#3b82f6" stroke="#2563eb" stroke-width="4"/>
+  
+  <!-- Hospital Entrance -->
+  <rect x="350" y="400" width="100" height="100" fill="#ffffff" stroke="#3b82f6" stroke-width="4"/>
+  
+  <!-- Hospital Sign -->
+  <rect x="350" y="250" width="100" height="60" fill="#3b82f6" rx="5" ry="5"/>
+  <text x="400" y="285" font-family="Arial" font-size="24" fill="white" text-anchor="middle">H</text>
+  
+  <!-- Windows -->
+  <rect x="200" y="250" width="60" height="60" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="5" ry="5"/>
+  <rect x="200" y="350" width="60" height="60" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="5" ry="5"/>
+  <rect x="540" y="250" width="60" height="60" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="5" ry="5"/>
+  <rect x="540" y="350" width="60" height="60" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="5" ry="5"/>
+  
+  <!-- Medical Cross -->
+  <circle cx="650" cy="150" r="50" fill="#ef4444" stroke="#dc2626" stroke-width="2"/>
+  <rect x="635" y="115" width="30" height="70" fill="white" rx="5" ry="5"/>
+  <rect x="615" y="135" width="70" height="30" fill="white" rx="5" ry="5"/>
+  
+  <!-- Doctor -->
+  <circle cx="150" cy="150" r="40" fill="#60a5fa"/>
+  <rect x="130" y="190" width="40" height="60" fill="#60a5fa"/>
+  <rect x="120" y="200" width="20" height="60" fill="#60a5fa" rx="10" ry="10"/>
+  <rect x="160" y="200" width="20" height="60" fill="#60a5fa" rx="10" ry="10"/>
+  <circle cx="150" cy="140" r="25" fill="#f8fafc"/>
+  
+  <!-- Stethoscope -->
+  <path d="M170 180 Q200 160 220 180" stroke="#1e40af" stroke-width="3" fill="none"/>
+  <circle cx="220" cy="180" r="8" fill="#1e40af"/>
+  
+  <!-- Decorative Elements -->
+  <circle cx="100" cy="500" r="30" fill="#93c5fd" opacity="0.7"/>
+  <circle cx="700" cy="500" r="30" fill="#93c5fd" opacity="0.7"/>
+  <circle cx="400" cy="50" r="20" fill="#93c5fd" opacity="0.7"/>
+</svg>
