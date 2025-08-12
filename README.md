@@ -90,7 +90,7 @@ The project consists of two main components:
 
 1. Navigate to the frontend directory:
    ```
-   cd project
+   cd frontend
    ```
 
 2. Install dependencies:
